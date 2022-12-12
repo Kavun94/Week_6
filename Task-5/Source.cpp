@@ -7,7 +7,7 @@ int main() {
 	while (N != 0);
 		if (N % 10 > 3) i++;
 	N /= 10;
-	cout << "" << i << endl;
+	cout << "Number > 3  :" << i << endl;
 	return 0;
 
 	} 
